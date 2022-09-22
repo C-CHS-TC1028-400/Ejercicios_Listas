@@ -4,7 +4,7 @@ def main():
     # CODIGO ###############
 
     # Contando pares e impares -----------------------------
-    # Autor: ricardo.quintero@tec.mx
+   
 
     fin=False
     lista=[]

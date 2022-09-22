@@ -4,7 +4,7 @@ def main():
     #CODIGO ######################
 
     # codigo que cuenta los numeros pares e impares de una lista cuyos elementos fueron introducidos por el usuario
-    # autor: -
+    
     cuantos=int(input())
     lista=[]
 

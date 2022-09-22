@@ -3,7 +3,7 @@ def main():
 
     # CODIGO #####
     # Mezclando y ordenando listas -----------------------------
-    # Autor: ricardo.quintero@tec.mx
+  
 
     l1=[]
     fin=False

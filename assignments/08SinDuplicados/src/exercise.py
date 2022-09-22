@@ -3,7 +3,7 @@ def main():
 
     # CODIGO ##############
     
-    # Problema de listas --- propuesto por Rocío Villagómez
+    # Problema de listas --- 
     tam=int(input())
     lista=[]
     sin_duplicados=[]
